@@ -1,4 +1,4 @@
-# Welcome to this Python notebook
+# Welcome to this Python Exercises Repo
 
 
 ## Getting Started
